@@ -1,6 +1,6 @@
-I am chiranjeevi
-I am intrested in 
-I am currently learning python
+-I am chiranjeevi
+-I am intrested in 
+-I am currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
